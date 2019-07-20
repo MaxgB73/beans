@@ -1,0 +1,2 @@
+# beans
+My first repository
